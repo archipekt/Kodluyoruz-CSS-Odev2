@@ -1,0 +1,52 @@
+body {
+  text-align: center;
+}
+
+img {
+  margin-top: 10%;
+}
+
+p {
+  margin-bottom: 0;
+}
+
+.first-div {
+  background-color: rgb(223, 223, 223);
+  margin: 6px;
+}
+
+.block-input {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+}
+
+a {
+  margin: 0;
+}
+
+div.one {
+  padding: 2px 11%;
+}
+
+div.two {
+  padding: 2px 6%;
+}
+
+div.three {
+  padding: 2px 20%;
+}
+
+.aside {
+  height: 100px;
+  margin: 0;
+  display: inline-block;
+  width: fit-content;
+  text-align: center;
+  background-image: linear-gradient(
+    to right,
+    rgb(76, 226, 236),
+    rgb(195, 255, 240)
+  );
+}
